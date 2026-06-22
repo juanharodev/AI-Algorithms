@@ -1,0 +1,1 @@
+Repositorie with a compilation of AI  algorithms that I made at school

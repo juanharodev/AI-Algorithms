@@ -1,0 +1,54 @@
+{
+    "name": "PathFinderControls",
+    "maps": [
+        {
+            "name": "Level",
+            "id": "3681c344-bf7a-4550-a59b-5d83a32a7d0f",
+            "actions": [
+                {
+                    "name": "Start",
+                    "type": "Button",
+                    "id": "7fd13323-72e5-4e8d-b8db-f50e2f3446a7",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "End",
+                    "type": "Button",
+                    "id": "fbe736f0-41b2-4930-96b3-b71acd7b4159",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3875af32-b717-4f26-96d7-33ef1538913f",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c0dbf64d-f927-41d6-bc0e-9ab46ede2564",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "End",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
